@@ -76,7 +76,7 @@ if (!isset($_SESSION)) {
 				</select> 
 				<br />
 				<input class="submit" style="color:#121212;" type="submit" value="Create" /> 
-				<p style="padding-top:1em;"><i>Or would you rather <a href="cellular.php">generate a map?</a></i></p>
+				<!-- <p style="padding-top:1em;"><i>Or would you rather <a href="cellular.php">generate a map?</a></i></p> -->
 			</form>
 		</div>
 	<?php else: ?>
